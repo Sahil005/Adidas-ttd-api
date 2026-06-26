@@ -1,0 +1,14 @@
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+ENV/
+debug.log
+scheduler_setup.cmd
+*.py
+!main.py
+*.ipynb
